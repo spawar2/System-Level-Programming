@@ -7,3 +7,4 @@ Number of spaces,
 Number of vowels,
 Number of digits, 
 Number of special characters.
+method(count)
