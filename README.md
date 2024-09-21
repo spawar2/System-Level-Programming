@@ -7,4 +7,4 @@ Number of spaces,
 Number of vowels,
 Number of digits, 
 Number of special characters.
-selected method(count)
+selected method(count).
