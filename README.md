@@ -9,3 +9,4 @@ Number of digits,
 Number of special characters.
 selected method(count).
 Date created/updated: December, 9, 2024.
+![download2](https://github.com/user-attachments/assets/f0d470d6-3799-40d2-bbc6-39a6652bc779)
