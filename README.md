@@ -1,5 +1,5 @@
 [Georgia State University, Atlanta, United States of America (USA).](https://catalogs.gsu.edu/preview_entity.php?catoid=4&ent_oid=231&returnto=562) https://csds.gsu.edu/
-test.c, test2.c, stat.c: number of white spaces, 
+test.c, test2.c, stat.c: number of white spaces,  ^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). 
 Uppercase Letters, 
 Lowercase Letters,
 Number of words,
